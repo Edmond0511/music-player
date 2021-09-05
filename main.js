@@ -7,6 +7,7 @@ const audio = document.querySelector('audio');
 const image = document.querySelector('img');
 const progress = document.querySelector('.progress');   
 const progressContainer = document.querySelector('.progress-container')
+
 //initialize song list by nesting objects 
  const songList = [
     {
@@ -73,7 +74,6 @@ const progressContainer = document.querySelector('.progress-container')
 
 
  //Play track 
-
  let songPlaying = false;
 
  function playSong() {
