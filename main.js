@@ -14,31 +14,31 @@ const progressContainer = document.querySelector('.progress-container')
         path: "assets/songs/and-so-it-begins.mp3",
         songName: "And So It Begins",
         artist: "Artificial.Music",
-        image: "assets/img/1.png"
+        image: "assets/img/1.PNG"
     },
     {
         path: "assets/songs/bedtime-after-a-coffee.mp3",
         songName: "Bedtime After a Coffee",
         artist: "Barradeen",
-        image: "assets/img/2.png"
+        image: "assets/img/2.PNG"
     },
     {
         path: "assets/songs/coral.mp3",
         songName: "Coral",
         artist: "LiQWYD",
-        image: "assets/img/3.png"
+        image: "assets/img/3.PNG"
     },
     {
         path: "assets/songs/dreams-come-true.mp3",
         songName: "Dreams Come True",
         artist: "Purrple Cat",
-        image: "assets/img/4.png"
+        image: "assets/img/4.PNG"
     },
     {
         path: "assets/songs/equinox.mp3",
         songName: "Equinox",
         artist: "Purrple Cat",
-        image: "assets/img/5.png"
+        image: "assets/img/5.PNG"
     },
     {
         path: "assets/songs/fragile.mp3",
@@ -50,19 +50,19 @@ const progressContainer = document.querySelector('.progress-container')
         path: "assets/songs/herbal-tea.mp3",
         songName: "Herbal Tea",
         artist: "Artificial.Music",
-        image: "assets/img/7.png"
+        image: "assets/img/7.PNG"
     },
     {
         path: "assets/songs/japan.mp3",
         songName: "Japan",
         artist: "Uniq",
-        image: "assets/img/8.png"
+        image: "assets/img/8.PNG"
     },
     {
         path: "assets/songs/water-wood-and-stone.mp3",
         songName: "Water Wood and Stone",
         artist: "Audionautix",
-        image: "assets/img/9.png"
+        image: "assets/img/9.PNG"
     },
     {
         path: "assets/songs/you-know-why.mp3",
