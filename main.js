@@ -158,7 +158,5 @@ loadSong(songList[i]);
 //event listeners
 next.addEventListener("click", nextSong);   
 prev.addEventListener("click", prevSong);   
-
 audio.addEventListener('timeupdate',updateProgress)
-
 progressContainer.addEventListener('click',setProgress)
